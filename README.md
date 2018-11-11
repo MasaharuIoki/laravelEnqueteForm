@@ -5,7 +5,7 @@
 下記がインストールされていること
 * PHP ver 7.2.11
 * MySQL 5.7.24    
-※上記はXAMPP 7.2.11(PHP 7.2.11 / MariaDB 10.1.36)でも動作確認しました。    
+※上記はXAMPP 7.2.11(PHP 7.2.11 / MariaDB 10.1.36)でも動作確認しました    
 * Laravel Framework 5.7.12
 * Composer
 
