@@ -20,7 +20,7 @@
 
 3.MySQLへの接続情報を記載    
 /enqueteForm/.env.exampleファイルをコピーして.envファイルにリネーム    
-.envファイルにMySQLの接続先,ポート,データベース名,接続するユーザー/PWを記載    
+.envファイルに接続先,ポート,データベース名,接続するユーザー/PWを記載    
 
 例：    
     DB_CONNECTION=mysql    
