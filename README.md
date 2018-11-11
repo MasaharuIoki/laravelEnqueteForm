@@ -15,11 +15,11 @@
 `git clone https://github.com/atsu8492/enqueteForm.git`
 
 2.環境情報の統一    
-./enqueteForm/に移動し下記コマンドを実行
+./enqueteForm/に移動し下記コマンドを実行    
 `composer install`
 
 3.MySQLへの接続情報を記載    
-/enqueteForm/.env.exampleファイルをコピーして.envファイルにリネーム
+/enqueteForm/.env.exampleファイルをコピーして.envファイルにリネーム    
 .envファイルにMySQLの接続先,ポート,データベース名,接続するユーザー/PWを記載    
 
 例：    
